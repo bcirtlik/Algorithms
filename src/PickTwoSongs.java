@@ -1,7 +1,11 @@
+import java.util.Arrays;
+
 public class PickTwoSongs {
 
 
     public PickTwoSongs(int rideDuration,int[] songDurations) {
+
+        Arrays.sort(songDurations);
 
         int totalDuration=rideDuration-30;
 

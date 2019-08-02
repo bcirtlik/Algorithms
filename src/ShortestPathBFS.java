@@ -13,9 +13,12 @@ public class ShortestPathBFS {
         Queue<HashMap<String,Integer>> queue=new LinkedList();
         int[][] dist=new int[rowNum][columNum];
 
+
         for (int[] row: dist) {
             Arrays.fill(row, -1);
         }
+
+
         int i=0;
         int j=0;
         int start=field.get(i).get(j);
