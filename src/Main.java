@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        List<List<Integer>> list=new ArrayList<>();
+       /* List<List<Integer>> list=new ArrayList<>();
         List<Integer> l1= Arrays.asList(1,1,0);
         List<Integer> l2=Arrays.asList(1,1,1);
         List<Integer> l3=Arrays.asList(9,0,1);
@@ -15,6 +15,11 @@ public class Main {
         list.add(l3);
 
         ShortestPathBFS shortestPathBFS=new ShortestPathBFS(list,3,3);
+
+        */
+
+
+       PickTwoSongs pickTwoSongs= new PickTwoSongs(90,new int[] {1,10,25,35,58});
 
     }
 
