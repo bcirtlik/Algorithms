@@ -1,0 +1,25 @@
+-What do you know about memory management in Operating Systems? What is segmentation? What is paging?
+
+
+-Given a station with n platforms. So each platform has one line. But these n lines join into one, after leaving the platform (on both sides). Each train has to wait a minimum of x minutes in the platform. Trains arrive from both ends. If all the platforms are occupied they wait. There is also a point beyond the end of the platform (on both sides). This point indicates that an incoming train has to wait at that point until a leaving train (from that end) passes that point. Design the whole system.
+
+-How are big files stored in memory? What are the uses of B-tree? How is it more useful than BST?
+
+-Given one billion file indexes and said that n files are missing. How would you identify the file indexes of those who are missing?
+
+-Asked about internet. What happens when you type a URL on your browser?
+
+-Design MP3 player which would play only unique songs in random order from given list of songs
+
+-Design multiple stacks in a Single one big int array as efficient as possible ( real world example multiple process function stacks creation and deletion in memory of linux os )
+
+-How would you combine lots of big sorted files residing on disk ( file size >>> memory )
+
+-Design in-memory file system.
+
+-Given millions of files process them sequentially in multiple stages and make sure it has good scalabilty, error handling, elegantly handles changes to the system. etc.
+
+-Given a continuous stream of strings, maintain strings such that duplicate are eliminated on the fly. The interviewer wanted working code. So coded the solution during the interview and emailed it to him 10 mins after.
+ So if you get “Ted”, “John”, “Mark”, “Ted”, “David”, at the moment in
+ time, the list should contain John, Mark, David.
+

@@ -10,9 +10,10 @@ public class ShortestPathBFS {
             int sr=0;
             int sc=0;
 
-            int counter=0;
+
 
             boolean[][] visited=new boolean[rowNum][columnNum];
+            int[][] dist=new int[rowNum][columnNum];
 
 
 
@@ -33,7 +34,7 @@ public class ShortestPathBFS {
 
                 if(graph.get(dr).get(dc)==9){
 
-                    System.out.println(counter);
+                    System.out.println(dist[dr][dc]);
                 }
 
                 for(int i=0;i<4;i++){
@@ -44,7 +45,7 @@ public class ShortestPathBFS {
 
                             rowQueue.add(ri);
                             columnQueue.add(ci);
-                            counter++;
+                            dist[ri][ci]=dist[dr][dc]+1;
                         }
                     }
 
@@ -60,7 +61,7 @@ public class ShortestPathBFS {
     public static void main(String[] args) {
 
             List<List<Integer>> list=new ArrayList<>();
-            list.add(Arrays.asList(1,1,0));
+            list.add(Arrays.asList(1,1,1));
             list.add(Arrays.asList(1,0,0));
             list.add(Arrays.asList(1,9,0));
             printShortestPath(list,3,3);
