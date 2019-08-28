@@ -1,5 +1,8 @@
 package Implementations;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class BinaryHeapImpl {
 
 
@@ -22,6 +25,7 @@ public class BinaryHeapImpl {
         arr[index] = arr[last-1];
         bubbleDown(index);
         last--;
+
     }
 
     public void bubbleUp(int index) {

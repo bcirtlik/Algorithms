@@ -64,3 +64,47 @@ https://practice.geeksforgeeks.org/problems/overlapping-rectangles/0
 
 
 
+-Given a linked list, write a function to reverse every k nodes
+https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1
+
+-Print vertical sum of a binary tree.
+
+-Print a binary tree in vertical zig-zag order.
+
+-Find common elements out of two sorted array
+
+-How to find the last nth element from singly link list,
+https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1
+
+-Given a sorted array of number, value K and value X, find the K nearest number to the value
+https://practice.geeksforgeeks.org/problems/k-closest-elements/0
+
+- Given two linked lists each of which represent a number, write a function that returns a linked list that represents the sum.
+https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1
+
+-Given a sorted array of numbers. Construct a balanced binary tree with the numbers in the Array as keys.
+https://practice.geeksforgeeks.org/problems/unique-bsts/0
+
+-Given a binary tree in which the node structure has an additional field called “next” which of pointer to tree node type, fill up this field of each node to point to the next node at the same level (NULL if last node).
+https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1
+
+-Sort an almost sorted Array. An almost sorted Array being an Array in which a number is at the most k positions away from its position in the sorted Array.
+https://practice.geeksforgeeks.org/problems/drive-the-car/0
+
+-Given a parentheses string, determine if it is a valid / legitimate parentheses string. For strings consisting of single parentheses type and those consisting of multiple types.
+https://practice.geeksforgeeks.org/problems/parenthesis-checker/0
+
+-Write a program to convert a tree to doubly link list
+https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1
+
+
+-Given an Array containing numbers between 1 to n, out of which 1 number is missing, find the missing number.
+https://practice.geeksforgeeks.org/problems/missing-number-in-array/0
+
+
+-Write a program to convert a decimal number into binary
+https://practice.geeksforgeeks.org/problems/decimal-to-binary/0
+
+-You have given an n-ary tree write a program to check whether this tree is sum tree or not.
+https://practice.geeksforgeeks.org/problems/sum-tree/1
+

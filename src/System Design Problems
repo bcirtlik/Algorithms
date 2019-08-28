@@ -23,3 +23,28 @@
  So if you get “Ted”, “John”, “Mark”, “Ted”, “David”, at the moment in
  time, the list should contain John, Mark, David.
 
+-Suppose we need a service to perform certain task every day at some specified time. How do we ensure that everyday at the specified time the service will do that task?
+
+
+-Program to get the maximum distance between two nodes in the binary tree. The interviewer further generalized this problem for n-ary tree. Then he asked how to get the longest path in a graph.
+-How does the garbage collector works in java?
+-Design a restaurant reservation system. I was also asked to write some sql queries in this regard.
+-Design a semaphore.
+-A device need to upgrade and downgrade its software. Eg: mobile phone need to upgrade its OS. Design high level and low level.
+
+-Explain inheritance and Base class is given you need to stop exposing the base class methods without touching the base class at all. It was really tricky.    question i liked it.
+
+-What is deadlock and How to detect deadlock in system.
+-Concept of Database normalization and various types of it.
+-He also started asking some networking question. Like TCP/IP, socket connection.
+-How the chat between 2 user work internally, internally how the packets flows between layer. And suppose user A send “Hi” message to user B and user B just shutdown the system. What will happen in that case.
+
+
+- Given that you want to maintain a backend for a bookstore Application that would store names of Authors and books, such that the application can return all the books written by a specific Author and all the Authors of a specific book which is specified in a query. The query can be such that only a substring of the Authorname or the bookname is specified and all the matches should be returned. I proposed a trie based solution, and was asked to code the solution on a collabedit shared document.
+- Describe multithreading.
+
+-What is a singleton set What is the data storage model (Data structures) used to store records in a relational Database.
+
+
+
+-
