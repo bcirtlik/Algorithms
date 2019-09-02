@@ -1,11 +1,38 @@
+-Print a Binary Tree in Vertical Order
+https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1
+-Print vertical sum of a binary tree.
+-Print a binary tree in vertical zig-zag order.
+
+-Median of BST
+https://practice.geeksforgeeks.org/problems/median-of-bst/1
+
+-Smallest range in K lists
+-https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1
+
+-Longest consecutive subsequence
+https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0
+
+-Unique BST's
+https://practice.geeksforgeeks.org/problems/unique-bsts/1
+
+-Unit Area of largest region of 1's
+https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s/1
+
+-Smallest Positive missing number
+https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number/1
+
 -Find the merge point between two lists.
 https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1
 
 - Given a sorted array find the number of BSTs you can form.
 https://practice.geeksforgeeks.org/problems/unique-bsts/0
 
+-Check for Balanced Tree
+https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1
+
 -Convert a Binary tree to its mirror in-place.
 https://practice.geeksforgeeks.org/problems/mirror-tree/1
+
 
 -Design a DS to perform Insert,Search,Delete,get Random,All in O(1).
 -Given two arrays of ints of size m and m+n in sorted order. merge it inplace
@@ -67,9 +94,7 @@ https://practice.geeksforgeeks.org/problems/overlapping-rectangles/0
 -Given a linked list, write a function to reverse every k nodes
 https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1
 
--Print vertical sum of a binary tree.
 
--Print a binary tree in vertical zig-zag order.
 
 -Find common elements out of two sorted array
 
@@ -108,3 +133,32 @@ https://practice.geeksforgeeks.org/problems/decimal-to-binary/0
 -You have given an n-ary tree write a program to check whether this tree is sum tree or not.
 https://practice.geeksforgeeks.org/problems/sum-tree/1
 
+-Longest repeating and non-overlapping substring
+https://practice.geeksforgeeks.org/problems/longest-repeating-and-non-overlapping-substring/0
+
+
+-Write a program to convert a tree to doubly link list in post-order fashion only change of pointer are allowed that is left pointer can work as previous and right pointer s as next.
+https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1
+
+-Maximize Number of 1's
+https://practice.geeksforgeeks.org/problems/maximize-number-of-1s/0
+
+
+-Count all possible paths from top left to bottom right
+https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right/0
+
+-First non-repeating character in a stream
+https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0
+
+
+-Find Transition Point
+https://practice.geeksforgeeks.org/problems/find-transition-point/1
+
+-Flatten LinkedList
+https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1
+
+
+
+
+-Smallest window in a string containing all the characters of another string
+https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/1
