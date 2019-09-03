@@ -4,51 +4,47 @@ import java.util.HashMap;
 
 public class TrieImpl {
 
+    public static TrieNode root=new TrieNode() ;
 
-    public static TrieNode insert(char[] st, int index, TrieNode node) {
+    public static void insert(char[] st, int index, TrieNode node) {
         if (st.length == index) {
-            node.setCompleteWord(true);
-            return node;
+            node.isCompleteWord=true;
+            return ;
         }
-        TrieNode newNode = new TrieNode(false);
-        node.getChildren().put(st[index], newNode);
+        TrieNode newNode = new TrieNode();
+        node.children.put(st[index], newNode);
         insert(st, index + 1, newNode);
-        return node;
+
     }
 
     public static void print(TrieNode node){
-        if(node.getChildren().size()>0){
-            node.getChildren().keySet().stream().forEach(f->System.out.print(f));
+        if(node.isCompleteWord)
             return;
+        if(node.children.size()>0){
+            node.children.keySet().stream().forEach(f->System.out.print(f));
+            node.children.values().stream().forEach(f->print(f));
+
         }
-       node.getChildren().values().stream().forEach(f->print(f));
+
     }
 
     public static void main(String... args){
-        TrieNode trieNode=new TrieNode(false);
-        String st1="burcu";
+
+        String st1="burcu bu";
+
+        insert( st1.toCharArray(),0,root);
+        print(root);
 
     }
 
 }
 
 class TrieNode {
-    HashMap<Character, TrieNode> children = new HashMap<>();
-    boolean isCompleteWord;
+    public HashMap<Character, TrieNode> children = new HashMap<>();
+    public boolean isCompleteWord;
 
-    public TrieNode(boolean isCompleteWord) {
-        this.isCompleteWord = isCompleteWord();
+    public TrieNode() {
     }
 
-    public HashMap<Character, TrieNode> getChildren() {
-        return children;
-    }
 
-    public boolean isCompleteWord() {
-        return isCompleteWord;
-    }
-
-    public void setCompleteWord(boolean completeWord) {
-        isCompleteWord = completeWord;
-    }
 }
