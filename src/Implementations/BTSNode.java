@@ -1,9 +1,9 @@
 package Implementations;
 
 public class BTSNode {
-    int data;
-    BTSNode left;
-    BTSNode right;
+    public int data;
+    public BTSNode left;
+    public BTSNode right;
 
     public BTSNode(int data, BTSNode left, BTSNode right) {
         this.data = data;

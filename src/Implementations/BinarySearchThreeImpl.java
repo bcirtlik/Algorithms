@@ -4,6 +4,7 @@ public class BinarySearchThreeImpl {
 
     private BTSNode leastRightNode;
 
+    public BTSNode root;
 
     public BTSNode find(BTSNode head, int data) {
 
@@ -15,6 +16,11 @@ public class BinarySearchThreeImpl {
             return find(head.left, data);
         }
 
+    }
+
+    public BTSNode insert(int data){
+        root=insert(root,data);
+        return root;
     }
 
 
