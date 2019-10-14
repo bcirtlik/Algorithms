@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f641ce48-96c8-4ab7-b5b4-f2a55fe5b4dd" name="Default Changelist" comment="BinarySearchTree">
-      <change afterPath="$PROJECT_DIR$/src/IsBalancedTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/Algorithm Problems" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/Algorithm Problems" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/Implementations/BTSNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/Implementations/BTSNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/Implementations/BinarySearchThreeImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/Implementations/BinarySearchThreeImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/System Design Problems" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/System Design Problems" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Implementations/BTSNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Implementations/BTSNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Implementations/BinarySearchThreeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Implementations/BinarySearchThreeImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Implementations/TrieImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Implementations/TrieImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrderAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrderAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PickTwoSongs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PickTwoSongs.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1OgwOX1cNPxv0ai0h8WM7EBqwZB" />

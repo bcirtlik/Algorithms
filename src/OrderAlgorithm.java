@@ -1,11 +1,11 @@
 import java.util.*;
-// IMPORT LIBRARY PACKAGES NEEDED BY YOUR PROGRAM
-// SOME CLASSES WITHIN A PACKAGE MAY BE RESTRICTED
-// DEFINE ANY CLASS AND METHOD NEEDED
-// CLASS BEGINS, THIS CLASS IS REQUIRED
+// Given data order the list
+// Primes should be first ordenary orders should come next
+// Primes should ordered according to alphabetichal order
+// Ordenary orders should not sorted.
+
 public class OrderAlgorithm
 {
-    // METHOD SIGNATURE BEGINS, THIS METHOD IS REQUIRED
     public List<String> prioritizedOrders(int numOrders, List<String> orderList)
     {
 
