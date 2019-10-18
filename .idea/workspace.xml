@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f641ce48-96c8-4ab7-b5b4-f2a55fe5b4dd" name="Default Changelist" comment="BinarySearchTree">
+    <list default="true" id="f641ce48-96c8-4ab7-b5b4-f2a55fe5b4dd" name="Default Changelist" comment="Tidy Up">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrderAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrderAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PickTwoSongs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PickTwoSongs.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -182,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567489495924</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Tidy Up">
+      <created>1571057839475</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571057839475</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,7 +210,9 @@
     <MESSAGE value="Datastructure Implementations" />
     <MESSAGE value="Todos" />
     <MESSAGE value="Trie Structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trie Structure" />
+    <MESSAGE value="BinarySearchTree" />
+    <MESSAGE value="Tidy Up" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tidy Up" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

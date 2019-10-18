@@ -1,3 +1,5 @@
+package DynamicProgramming;
+
 public class FibonacciWithBottomUp {
 
     public static int fib(int n){
