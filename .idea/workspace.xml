@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f641ce48-96c8-4ab7-b5b4-f2a55fe5b4dd" name="Default Changelist" comment="Tidy Up">
+    <list default="true" id="f641ce48-96c8-4ab7-b5b4-f2a55fe5b4dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FreeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GraphTheory/KruskalAlgorithm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -187,7 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571057839475</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Organizing">
+      <created>1571381340199</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571381340199</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Cleaning">
+      <created>1571381671722</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1571381671722</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,7 +228,9 @@
     <MESSAGE value="Trie Structure" />
     <MESSAGE value="BinarySearchTree" />
     <MESSAGE value="Tidy Up" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tidy Up" />
+    <MESSAGE value="Organizing" />
+    <MESSAGE value="Cleaning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaning" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
